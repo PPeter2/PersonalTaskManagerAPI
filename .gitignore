@@ -1,0 +1,22 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# VS Code
+.vscode/
+
+# uv
+.python-version
+
+# Testing
+.pytest_cache/
